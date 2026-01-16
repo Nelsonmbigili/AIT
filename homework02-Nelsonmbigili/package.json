@@ -1,0 +1,36 @@
+{
+  "name": "homework02-nelsonmbigili",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-fall-2025/homework02-Nelsonmbigili.git"
+  },
+  "author": "Nelson Mbigili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-fall-2025/homework02-Nelsonmbigili/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-fall-2025/homework02-Nelsonmbigili#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "chai": "^6.0.1",
+    "eslint": "^9.35.0",
+    "eslint-plugin-mocha": "^11.1.0",
+    "globals": "^16.4.0",
+    "mocha": "^11.7.2",
+    "mocha-sinon": "^2.1.2",
+    "sinon": "^21.0.0"
+  },
+  "dependencies": {
+    "csv-parse": "^6.1.0"
+  }
+}
